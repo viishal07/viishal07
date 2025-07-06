@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viishal07,
-- 👀 I’m interested in Full Stack Web development.
+- 👀 I’m interested in developing modern websites and problem solving.
 - 🌱 I’m currently learning DSA with Java and Mastering the full stack development.
 - 💞️ I’m looking to collaborate on internships or Full time Role.
 - 📫 How to reach me : mail : viishal514@gmail.com.
